@@ -1,0 +1,19 @@
+{
+  "name": "ip-lookup-cli",
+  "version": "1.0.0",
+  "description": "A cli to lookup and get information on ips & domains.",
+  "main": "index.js",
+  "bin": {
+    "lookup": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OblivionSan",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "figlet": "^1.2.0",
+    "request": "^2.83.0"
+  }
+}
