@@ -16,8 +16,11 @@ A cli to lookup and get information on ips & domains by <a href="https://oblivio
   - Lookup ip and domain information.
   - Easy to read layout.
 
-## Status
-  - Currently not available on [NPM](https://www.npmjs.com/) ~ Soon™
+## How to install and use
+  - First install [Node.JS](https://nodejs.org/en/)
+  - Then install the cli by typing in terminal `npm install -g ip-lookup-cli`
+  - Usage: `>lookup <ip || domain> ~ example: >lookup google.com`
+  - Typing `>lookup -h or -help` will also bring up the usage.
 
 ## Useful Links
   - Support Server ~ [discord.oblivionsan.tk](https://discord.oblivionsan.tk)

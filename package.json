@@ -1,6 +1,7 @@
 {
   "name": "ip-lookup-cli",
   "version": "1.0.0",
+  "preferGlobal": true,
   "description": "A cli to lookup and get information on ips & domains.",
   "main": "index.js",
   "bin": {
@@ -8,6 +9,10 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OblivionSan/ip-lookup-cli"
   },
   "author": "OblivionSan",
   "license": "MIT",
