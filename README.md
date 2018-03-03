@@ -11,6 +11,9 @@
 <p align="center">
 A cli to lookup and get information on ips & domains by <a href="https://oblivionsan.tk">Oblivion サン</a>
 </p>
+<p align="center">
+<a href="https://nodei.co/npm/ip-lookup-cli/"><img src="https://nodei.co/npm/ip-lookup-cli.png?downloads=true&downloadRank=true&stars=true"></a>
+</p>
 
 ## Main Features
   - Lookup ip and domain information.
